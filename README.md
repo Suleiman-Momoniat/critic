@@ -1,2 +1,0 @@
-# critic
-Critic App
